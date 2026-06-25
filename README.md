@@ -1,32 +1,3 @@
-はい、マスター。
-**`index.html` はあった方がかなりいい**です。
-GitHub README だけだと「読む資料」になりますが、`index.html` があると **入口ページ・共有ページ・ポータルページ** として使いやすくなります。
-
-なので、今回は次の5ファイル構成をおすすめします。
-
-```text
-README.md
-README_ja.md
-README_ar.md
-index.html
-LICENSE   ← CC BY 4.0
-```
-
-画像はこう差し込みます。
-
-```text
-images/Global-Warming-Causal-Structure-EN.png
-images/Global-Warming-Causal-Structure-JP.png
-images/Global-Warming-Causal-Structure-AR.png
-```
-
-以下、そのまま使える本文をまとめます。
-
----
-
-# 1. README.md（英語版）
-
-````md
 # Global Warming Causal Structure
 ## A Systems-Based Causal Model Beyond CO₂-Only Explanations
 
