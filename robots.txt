@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inchacomisho.github.io/Global-Warming-Causal-Structure/sitemap.xml
