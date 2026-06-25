@@ -152,6 +152,47 @@ Cooling Credit intervention targets the forest, soil, evapotranspiration, water 
 
 ---
 
+## Interpreting the Large Scenario Gap
+
+The large difference between the CO₂-centered pathway and the natural cooling restoration pathway should not be read as a precise numerical forecast. It should be read as a structural result of **intervening at different causal points**.
+
+A Carbon Credit-centered pathway mainly evaluates:
+
+- CO₂ emissions;
+- emission offsets;
+- accounting balances;
+- net-zero claims.
+
+However, in the causal structure used by this simulation, global warming is amplified not only by atmospheric CO₂ accumulation, but also by the degradation of the systems that move, absorb, buffer, and dissipate heat:
+
+- forest evapotranspiration;
+- soil water retention;
+- soil microbial function;
+- water phase transition cooling;
+- marine biological carbon fixation;
+- oceanic and atmospheric vertical circulation;
+- urban and land-surface heat accumulation.
+
+Therefore, reducing or offsetting emissions alone does not automatically restore lost natural cooling functions. By contrast, if the causal chain is identified and resources are directed toward the weakened nodes themselves, restoration can produce reinforcing effects:
+
+```text
+soil recovery
+→ higher water retention
+→ restored evapotranspiration
+→ lower surface heat
+→ improved vegetation survival
+→ stronger carbon fixation
+→ further reduction of heat-load pressure
+```
+
+This is why the counterfactual scenarios show a large divergence. The model suggests that the past decade may not only have been a problem of insufficient effort, but also a problem of **misallocated climate finance caused by an incomplete causal diagnosis**.
+
+In public interpretation, the conclusion should be stated carefully:
+
+> This simulation does not claim to predict exact temperature outcomes. It suggests that if climate policy had addressed degraded natural cooling functions alongside CO₂ reduction ten years earlier, the trajectory of heat-load accumulation and natural cooling-function decline could have been significantly different.
+
+---
+
 ## Difference Between Carbon Credit and Cooling Credit
 
 | Dimension | Carbon Credit | Cooling Credit |
