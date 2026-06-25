@@ -298,6 +298,41 @@ Under this framework, meaningful climate response requires both:
 
 ---
 
+## Featured Simulation
+
+### Lost Decade Natural Cooling Simulation
+
+> **What might have changed if, 10 years ago, climate policy had focused not only on CO₂ reduction and carbon credits, but also on restoring and supplementing Earth's natural cooling functions?**
+
+This module is a conceptual counterfactual causal simulation (2015–2035) comparing four scenarios:
+
+| Scenario | Description |
+|---|---|
+| A | Observed: CO₂-centered, carbon-credit-centered response |
+| B | Stronger CO₂ mitigation, still weak on natural cooling restoration |
+| C | Natural cooling restoration begins 10 years earlier (2015) |
+| D | Cooling Credit pathway: financial redirection toward physical cooling |
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/lost_decade_counterfactual.png" alt="Lost Decade Counterfactual" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/heat_load_gap.png" alt="Heat Load Gap" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/carbon_credit_vs_cooling_credit.png" alt="Carbon Credit vs Cooling Credit" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/causal_feedback_loop.png" alt="Causal Feedback Loop" width="100%">
+</p>
+
+**→ [View full simulation module](simulations/lost_decade_natural_cooling_simulation/README.md)**
+
+---
+
 ## Related Links
 
 ### Primary Article and Portal

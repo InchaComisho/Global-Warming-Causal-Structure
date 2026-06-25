@@ -302,6 +302,41 @@ CO₂中心の説明は重要な一面を説明できるが、次のような問
 
 ---
 
+## 注目シミュレーション
+
+### 失われた10年・自然冷却シミュレーション
+
+> **もし10年前、気候政策がCO₂削減とカーボンクレジットだけでなく、地球の自然冷却機能の回復と補完にも注力していたなら、何が変わっていたか？**
+
+本モジュールは概念的・反実仮想・因果シミュレーション（2015〜2035年）であり、4つのシナリオを比較します：
+
+| シナリオ | 説明 |
+|---|---|
+| A | 観測値：CO₂中心・カーボンクレジット中心の対応 |
+| B | CO₂削減強化、しかし自然冷却機能回復は依然弱い |
+| C | 自然冷却機能回復を10年前（2015年）から開始 |
+| D | クーリングクレジット経路：金融インセンティブを物理的冷却へ転換 |
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/lost_decade_counterfactual.png" alt="失われた10年反実仮想" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/heat_load_gap.png" alt="熱負荷ギャップ" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/carbon_credit_vs_cooling_credit.png" alt="カーボンクレジット対クーリングクレジット" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/causal_feedback_loop.png" alt="因果フィードバックループ" width="100%">
+</p>
+
+**→ [シミュレーションモジュール全体を見る](simulations/lost_decade_natural_cooling_simulation/README_ja.md)**
+
+---
+
 ## 関連リンク
 
 ### 主要記事・ポータル
