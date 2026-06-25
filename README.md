@@ -83,7 +83,7 @@ Vertical circulation weakens in ocean and air
 Heat stagnates more easily in the Earth system
 ↓
 Global warming accelerates
-````
+```
 
 This model is therefore not a single-cause explanation, but a **coupled systems explanation**.
 
@@ -298,13 +298,26 @@ Under this framework, meaningful climate response requires both:
 
 ---
 
-## Related Repositories
+## Related Links
 
-* [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
-* [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
-* [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
-* [CO2 Is Not The Only Villain – A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
-* [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+### Primary Article and Portal
+
+- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Global Warming Causal Structure Repository](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+
+### Cooling Credit Foundation
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+
+### Related Climate and Direct Cooling Models
+
+- [CO2 Is Not The Only Villain – A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
 
 ---
 

@@ -83,7 +83,7 @@
 تتراكم الحرارة بسهولة أكبر في نظام الأرض
 ↓
 يتسارع الاحترار العالمي
-````
+```
 
 هذا النموذج ليس تفسيرًا أحادي السبب، بل **نموذج سببي نظمي مترابط**.
 
@@ -292,13 +292,26 @@
 
 ---
 
-## مستودعات ذات صلة
+## روابط ذات صلة
 
-* [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
-* [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
-* [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
-* [CO2 Is Not The Only Villain – A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
-* [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+### المقال الرئيسي والبوابة
+
+- [مقال NOTE: أسباب الاحترار العالمي وبنيته السببية](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [مستودع Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+
+### أساس أرصدة التبريد
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+
+### نماذج مناخية وتبريد كوكبي مباشر ذات صلة
+
+- [CO2 Is Not The Only Villain – A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
 
 ---
 

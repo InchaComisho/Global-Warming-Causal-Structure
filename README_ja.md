@@ -83,7 +83,7 @@
 地球システム内で熱が滞留しやすくなる
 ↓
 温暖化が加速する
-````
+```
 
 このモデルは、単一原因論ではなく、**相互連関するシステム因果モデル**である。
 
@@ -302,13 +302,26 @@ CO₂中心の説明は重要な一面を説明できるが、次のような問
 
 ---
 
-## 関連リポジトリ
+## 関連リンク
 
-* [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
-* [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
-* [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
-* [CO2 Is Not The Only Villain – A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
-* [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+### 主要記事・ポータル
+
+- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Global Warming Causal Structure リポジトリ](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+
+### クーリングクレジット基盤
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+
+### 関連する気候・地球直接冷却モデル
+
+- [CO2 Is Not The Only Villain – A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
 
 ---
 
