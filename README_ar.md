@@ -292,6 +292,44 @@
 
 ---
 
+## محاكاة بارزة
+
+### محاكاة العقد الضائع للتبريد الطبيعي
+
+> **ماذا كان يمكن أن يتغير لو ركزت سياسة المناخ قبل عشر سنوات ليس فقط على خفض CO₂ وأرصدة الكربون، بل أيضًا على استعادة وظائف التبريد الطبيعية للأرض ودعمها؟**
+
+هذا النموذج هو محاكاة مفاهيمية، سببية، وافتراضية مضادة للفترة 2015–2035.
+لا يهدف إلى تقديم توقع مناخي دقيق بوحدات فيزيائية، بل إلى مقارنة المسارات السببية عندما يتم التعامل مع الاحترار العالمي بوصفه مشكلة انبعاثات فقط، أو بوصفه أيضًا مشكلة فقدان وظائف التبريد الطبيعية.
+
+يقارن النموذج أربعة سيناريوهات:
+
+| السيناريو | الوصف |
+|---|---|
+| A | المسار المرصود: استجابة متمحورة حول CO₂ وأرصدة الكربون |
+| B | خفض أقوى للانبعاثات، لكن مع بقاء استعادة وظائف التبريد الطبيعية ضعيفة |
+| C | بدء استعادة وظائف التبريد الطبيعية منذ عام 2015 |
+| D | مسار أرصدة التبريد: تحويل الحوافز المالية من محاسبة الكربون إلى التبريد الفيزيائي القابل للقياس |
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/lost_decade_counterfactual.png" alt="محاكاة العقد الضائع للتبريد الطبيعي" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/heat_load_gap.png" alt="فجوة الحمل الحراري" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/carbon_credit_vs_cooling_credit.png" alt="أرصدة الكربون مقابل أرصدة التبريد" width="100%">
+</p>
+
+<p align="center">
+  <img src="simulations/lost_decade_natural_cooling_simulation/outputs/causal_feedback_loop.png" alt="حلقة التغذية الراجعة السببية" width="100%">
+</p>
+
+**→ [عرض وحدة المحاكاة الكاملة](simulations/lost_decade_natural_cooling_simulation/README_ar.md)**
+
+---
+
 ## روابط ذات صلة
 
 ### المقال الرئيسي والبوابة
