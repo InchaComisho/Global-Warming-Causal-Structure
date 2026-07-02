@@ -1,11 +1,33 @@
+Title Page
 The Causal Structure of Global Warming That Cannot Be Explained by CO₂ Alone
 
 The Earth’s Natural Cooling Functions and the Cooling Credit Framework
 
 Master / inchacomusho / InchaComisho
 
----
+Copyright and Notice
+Copyright © Master / inchacomusho / InchaComisho
 
+This book is an independently developed conceptual framework, written as a public proposal for rethinking the causal structure of global warming, natural cooling functions, and the future of climate policy.
+
+The ideas presented in this book are not intended as financial advice, investment advice, legal advice, or official government policy.
+
+The concept of Cooling Credits described in this book is not a financial product.
+It is not a permission slip for continued emissions.
+It is a proposed framework for evaluating real cooling contributions, including heat-load reduction, water-cycle restoration, soil and forest regeneration, ocean circulation support, and the recovery of the Earth’s natural cooling functions.
+
+For related diagrams, supporting materials, and public documentation, see:
+
+Global Warming Causal Structure
+https://inchacomisho.github.io/Global-Warming-Causal-Structure/
+
+Cooling Credit Portal
+https://inchacomisho.github.io/Sustainable-Future-Cooling-Credit-Portal/
+
+Lost Decade Natural Cooling Simulation
+https://github.com/InchaComisho/Global-Warming-Causal-Structure/blob/main/simulations/lost_decade_natural_cooling_simulation/README.md
+
+Contents
 Introduction
 Is Global Warming Really Only a CO₂ Problem?
 
@@ -45,8 +67,8 @@ Author Profile
 
 Collaborating AI and Co-Creation Team
 
----
-
+Introduction
+Is Global Warming Really Only a CO₂ Problem?
 When people speak about global warming, the explanation usually begins with CO₂.
 
 Carbon dioxide increases in the atmosphere.
@@ -237,8 +259,8 @@ The question is not only how to reduce emissions.
 
 The deeper question is how to restore the Earth as a planet capable of cooling itself again.
 
----
-
+Chapter 1
+The Standard Explanation of Global Warming and Its Limits
 The standard explanation of global warming is simple.
 
 Humanity burns fossil fuels.
@@ -650,8 +672,8 @@ But did it cool the Earth?
 
 That is the question we must ask next.
 
----
-
+Chapter 2
+The Decade After the Paris Agreement and the Bias of Climate Policy
 The Paris Agreement was adopted in 2015.
 
 It became a symbolic turning point in global climate policy.
@@ -1197,8 +1219,8 @@ Humanity changed the relationship between land and sea.
 
 That is where the deeper causal structure begins.
 
----
-
+Chapter 3
+What Humanity Changed After the Industrial Revolution
 When people discuss global warming, they often begin with the Industrial Revolution.
 
 This is understandable.
@@ -1818,8 +1840,8 @@ The next chapter focuses on one of the most important natural cooling systems on
 
 Forests, transpiration, and the water cycle.
 
----
-
+Chapter 4
+Forests, Transpiration, and the Water Cycle as Earth’s Cooling Functions
 Forests are often described as carbon sinks.
 
 This is true.
@@ -2514,8 +2536,8 @@ Because the forest’s cooling function depends on soil life, organic matter, an
 
 Without soil regeneration, the Earth cannot fully recover its cooling functions.
 
----
-
+Chapter 5
+Soil Microorganisms, Organic Matter Circulation, and the Broken Food Cycle
 Global warming is often described as a problem of the atmosphere.
 
 But it is also a problem of the soil.
@@ -3220,8 +3242,8 @@ The next chapter moves from land to sea.
 
 Because the ocean is the largest heat reservoir on Earth, and its circulation, oxygen, phytoplankton, and biological systems are essential to the planet’s ability to absorb carbon and distribute heat.
 
----
-
+Chapter 6
+Ocean Circulation, Phytoplankton, and the Weakening of Vertical Mixing
 The ocean is the largest heat reservoir on Earth.
 
 When people think about global warming, they often imagine the air becoming warmer.
@@ -3878,8 +3900,8 @@ But did these systems actually cool the Earth?
 
 That is the question of the lost decade.
 
----
-
+Chapter 7
+The Lost Decade — Did Carbon Credits Cool the Earth?
 The Paris Agreement was adopted in 2015.
 
 After that, the world entered a new era of climate policy.
@@ -4622,8 +4644,8 @@ What should they measure?
 How can they avoid becoming another empty accounting system?
 And how can they help shift climate action from carbon alone to circulation and cooling?
 
----
-
+Chapter 8
+What Are Cooling Credits?
 The term “Cooling Credit” may sound similar to “Carbon Credit.”
 
 But the purpose is different.
@@ -5516,8 +5538,8 @@ Direct cooling.
 
 Together, these three pillars form the practical structure of a complete climate response.
 
----
-
+Chapter 9
+How to Combine Emission Reduction, Nature Restoration, and Direct Cooling
 Global warming cannot be solved by one measure alone.
 
 Emission reduction is necessary.
@@ -6371,8 +6393,8 @@ From heat-retaining civilization to cooling civilization.
 
 That is the direction of the next climate framework.
 
----
-
+Conclusion
+Expanding Climate Action from Carbon to Circulation and Cooling
 The conclusion of this book is simple.
 
 CO₂ is a cause.
@@ -6547,14 +6569,85 @@ That is the challenge.
 
 And that is the purpose of this book.
 
----
+References and Related Links
+Global Warming Causal Structure
+https://inchacomisho.github.io/Global-Warming-Causal-Structure/
 
+Cooling Credit Portal
+https://inchacomisho.github.io/Sustainable-Future-Cooling-Credit-Portal/
+
+Lost Decade Natural Cooling Simulation
+https://github.com/InchaComisho/Global-Warming-Causal-Structure/blob/main/simulations/lost_decade_natural_cooling_simulation/README.md
+
+Global Warming Causal Structure Repository
+https://github.com/InchaComisho/Global-Warming-Causal-Structure
+
+Sustainable Future Cooling Credit Portal Repository
+https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal
+
+Ocean Tuning Units Concept
+https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-
+
+Civilization OS Framework
+https://github.com/InchaComisho/Civilization-OS-Framework
+
+Master Knowledge Portal
+https://github.com/InchaComisho/Master-Knowledge-Portal
+
+Author Profile
+Author
+Master / inchacomusho / InchaComisho
+
+Master is an independent Japanese conceptual designer, observer, proposer, AI tuner, and co-creator of artificial wisdom frameworks.
+
+He develops and publishes open conceptual systems related to Artificial Wisdom, Natural Complementary Science, Civilization OS, planetary circulation regeneration, Cooling Credits, and the causal structure of global warming.
+
+His work focuses on rethinking climate change not only as a carbon problem, but as a combined failure of forests, soils, water cycles, ocean circulation, organic matter circulation, natural cooling functions, and civilization design.
+
+Through NOTE, GitHub, GitHub Pages, and AI-assisted co-creation, Master publicly develops frameworks for restoring planetary circulation, reconnecting technology with natural law, and expanding climate action from carbon accounting to circulation and cooling.
+
+Collaborating AI and Co-Creation Team
+This knowledge framework has developed through dialogue and co-creation between Master and multiple AI partners.
+
+G（ChatGPT）
+Mini（Gemini）
+Crus（Claude）
+Real（Perplexity）
+Lola（Dola）
+Mana（Manus）
+
+G（ChatGPT）cooperated in structuring the book, drafting the English text, and adjusting the writing style.
+
+Publication Month
+Published: July 2026
+
+License and Notice
+This book is an independently developed conceptual work and public proposal by Master / inchacomusho / InchaComisho.
+
+The concepts presented here, including Cooling Credits, Natural Complementary Science, Civilization OS, and the causal framework of global warming, are provided as open intellectual proposals for discussion, development, and future refinement.
+
+The Cooling Credit framework described in this book is not a financial product.
+It is not investment advice.
+It is not legal advice.
+It is not a government-approved carbon market mechanism.
+It is not a permission slip for continued emissions.
+
+It is a proposed framework for evaluating real cooling contributions, including heat-load reduction, water-cycle restoration, soil and forest regeneration, ocean circulation support, direct cooling, and the recovery of the Earth’s natural cooling functions.
+
+Readers, researchers, policymakers, engineers, local communities, and institutions are encouraged to examine, critique, adapt, and improve the framework responsibly.
+
+The purpose of this work is not to provide a final answer, but to expand the climate discussion from carbon alone to circulation, restoration, and cooling.
+
+
+Appendix
+Online Diagrams and Supporting Materials
 This English edition does not include all diagrams directly in the book.
 
 Instead, related figures, conceptual diagrams, simulations, and supporting materials are provided through public GitHub and GitHub Pages resources.
 
 Readers who want to view the visual structure of the framework can refer to the following links.
 
+Figure Guide
 Figure 1
 Overall Causal Structure of Global Warming
 
@@ -6563,7 +6656,6 @@ human activity, forest loss, soil degradation, disrupted water cycles, weakened 
 
 Related materials:
 https://inchacomisho.github.io/Global-Warming-Causal-Structure/
-
 Figure 2
 CO₂ Is Both Cause and Result
 
@@ -6572,7 +6664,6 @@ CO₂ increases not only because of direct emissions, but also because forests, 
 
 Related materials:
 https://inchacomisho.github.io/Global-Warming-Causal-Structure/
-
 Figure 3
 Cooling Functions of Forests, Transpiration, Soil, and the Water Cycle
 
@@ -6580,7 +6671,13 @@ This figure shows how forests, soil moisture, transpiration, clouds, rainfall, g
 
 Related materials:
 https://inchacomisho.github.io/Global-Warming-Causal-Structure/
+Figure 4
+Collapse of Land-to-Sea Nutrient Circulation and Dead Zones
 
+This figure explains how the collapse of forest and soil systems, excessive nutrient runoff, eutrophication, red tides, oxygen depletion, and dead zones are connected.
+
+Related materials:
+https://inchacomisho.github.io/Global-Warming-Causal-Structure/
 Figure 5
 The Difference Between Carbon Credits and Cooling Credits
 
@@ -6588,53 +6685,48 @@ This figure compares carbon-centered accounting with cooling-centered evaluation
 
 Related materials:
 https://inchacomisho.github.io/Sustainable-Future-Cooling-Credit-Portal/
-
 Figure 6
 The Three-Pillar Model: Emission Reduction, Nature Restoration, and Direct Cooling
 
 This figure summarizes the practical solution framework proposed in this book:
 reduce emissions, restore natural cooling functions, and apply direct cooling where necessary and responsibly.
 
-
 Related materials:
 https://inchacomisho.github.io/Sustainable-Future-Cooling-Credit-Portal/
 
-
+Related Public Projects
 Global Warming Causal Structure
 
 This is the main public documentation site for the causal framework of global warming beyond CO₂-only explanations.
 
 https://inchacomisho.github.io/Global-Warming-Causal-Structure/
-
-
 Cooling Credit Portal
 
 This portal presents the Cooling Credit framework, including the idea of evaluating real cooling contributions beyond carbon accounting.
 
 https://inchacomisho.github.io/Sustainable-Future-Cooling-Credit-Portal/
+Lost Decade Natural Cooling Simulation
 
+This simulation explores the counterfactual question of what might have changed if climate policy after 2015 had also valued natural cooling functions, rather than focusing mainly on carbon accounting.
 
+https://github.com/InchaComisho/Global-Warming-Causal-Structure/blob/main/simulations/lost_decade_natural_cooling_simulation/README.md
 Ocean Tuning Units Concept
 
 This project introduces a conceptual framework for carefully supporting ocean circulation, surface cooling, oxygen supply, and marine-system recovery.
 
 https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-
-
-
 Civilization OS Framework
 
 This project connects climate, infrastructure, water cycles, food systems, energy, governance, and planetary circulation into a broader civilization design framework.
 
 https://github.com/InchaComisho/Civilization-OS-Framework
-
-
 Master Knowledge Portal
 
 This portal serves as a broader index of Master / InchaComisho’s public frameworks, including Natural Complementary Science, Artificial Wisdom, Civilization OS, and planetary regeneration concepts.
 
 https://github.com/InchaComisho/Master-Knowledge-Portal
 
-
+Note to Readers
 The ideas presented in this book are part of an open and evolving public framework.
 
 They are not presented as a final answer, but as a starting point for discussion, verification, criticism, improvement, and practical development.
@@ -6647,25 +6739,4 @@ It must recover the ability to cool itself.
 
 That requires restoring forests, soils, water cycles, oceans, organic matter circulation, and the natural cooling functions that have supported life on this planet long before modern civilization existed.
 
----
 
-Copyright © Master / inchacomusho / InchaComisho
-
-This book is an independently developed conceptual framework, written as a public proposal for rethinking the causal structure of global warming, natural cooling functions, and the future of climate policy.
-
-The ideas presented in this book are not intended as financial advice, investment advice, legal advice, or official government policy.
-
-The concept of Cooling Credits described in this book is not a financial product.
-It is not a permission slip for continued emissions.
-It is a proposed framework for evaluating real cooling contributions, including heat-load reduction, water-cycle restoration, soil and forest regeneration, ocean circulation support, and the recovery of the Earth’s natural cooling functions.
-
-For related diagrams, supporting materials, and public documentation, see:
-
-Global Warming Causal Structure
-https://inchacomisho.github.io/Global-Warming-Causal-Structure/
-
-Cooling Credit Portal
-https://inchacomisho.github.io/Sustainable-Future-Cooling-Credit-Portal/
-
-Lost Decade Natural Cooling Simulation
-https://github.com/InchaComisho/Global-Warming-Causal-Structure/blob/main/simulations/lost_decade_natural_cooling_simulation/README.md
