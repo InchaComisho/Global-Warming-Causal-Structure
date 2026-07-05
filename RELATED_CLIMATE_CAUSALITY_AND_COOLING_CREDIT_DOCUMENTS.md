@@ -4,7 +4,7 @@
 
 This file provides a GitHub-only mutual link map for documents related to global warming causality, complete solution definition, SAI critical oversight, and Cooling Credit definition / implementation.
 
-NOTE links are intentionally omitted here. This file is for GitHub and GitHub Pages references only.
+NOTE links are intentionally omitted here. This file is for GitHub, GitHub Pages, and related digital book references only.
 
 ---
 
@@ -70,6 +70,19 @@ NOTE links are intentionally omitted here. This file is for GitHub and GitHub Pa
 
 ---
 
+## 9. Related Digital Books / Amazon
+
+The following digital books are related external publication references.
+
+- [Digital Book / Amazon.com / ASIN: B0H7PJ8XFR](https://www.amazon.com/dp/B0H7PJ8XFR)
+- [Digital Book / Amazon.com / ASIN: B0H7MFZMJC](https://www.amazon.com/dp/B0H7MFZMJC)
+- [デジタルブック / Amazon.co.jp / ASIN: B0H7JL7BRK](https://www.amazon.co.jp/dp/B0H7JL7BRK)
+- [デジタルブック / Amazon.co.jp / ASIN: B0H7NH2798](https://www.amazon.co.jp/dp/B0H7NH2798)
+
+Title metadata was not added here because the Amazon pages could not be reliably fetched from the current environment.
+
+---
+
 ## Relationship within the Framework
 
 These documents form a connected knowledge cluster:
@@ -82,9 +95,10 @@ Global warming causality definition
   -> Cooling Credit definition
   -> Cooling Credit implementation and finance model
   -> Public portal / GitHub Pages
+  -> Digital book publication references
 ```
 
-This cluster connects climate causality, natural cooling function recovery, physical cooling value evaluation, and institutional design for Cooling Credit.
+This cluster connects climate causality, natural cooling function recovery, physical cooling value evaluation, institutional design for Cooling Credit, and related digital book publications.
 
 ---
 
