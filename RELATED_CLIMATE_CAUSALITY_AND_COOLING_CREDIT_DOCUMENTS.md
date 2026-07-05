@@ -72,14 +72,12 @@ NOTE links are intentionally omitted here. This file is for GitHub, GitHub Pages
 
 ## 9. Related Digital Books / Amazon
 
-The following digital books are related external publication references.
+The following digital books are related external publication references. Titles were provided by the author.
 
-- [Digital Book / Amazon.com / ASIN: B0H7PJ8XFR](https://www.amazon.com/dp/B0H7PJ8XFR)
-- [Digital Book / Amazon.com / ASIN: B0H7MFZMJC](https://www.amazon.com/dp/B0H7MFZMJC)
-- [デジタルブック / Amazon.co.jp / ASIN: B0H7JL7BRK](https://www.amazon.co.jp/dp/B0H7JL7BRK)
-- [デジタルブック / Amazon.co.jp / ASIN: B0H7NH2798](https://www.amazon.co.jp/dp/B0H7NH2798)
-
-Title metadata was not added here because the Amazon pages could not be reliably fetched from the current environment.
+- [What Is Cooling Credit?: From Carbon Accounting to the Valuation of Real Planetary Cooling / Amazon.com / ASIN: B0H7PJ8XFR](https://www.amazon.com/dp/B0H7PJ8XFR)
+- [The Causal Structure of Global Warming That Cannot Be Explained by CO₂ Alone The Earth’s Natural Cooling Functions and the Cooling Credit Framework / Amazon.com / ASIN: B0H7MFZMJC](https://www.amazon.com/dp/B0H7MFZMJC)
+- [CO₂だけでは説明できない温暖化の因果構造: 地球本来の冷却機能とクーリングクレジット構想 (Natural Complementary Science Books) / Amazon.co.jp / ASIN: B0H7JL7BRK](https://www.amazon.co.jp/dp/B0H7JL7BRK)
+- [クーリングクレジットとは何か: 炭素会計から、地球を実際に冷やす価値評価へ / Amazon.co.jp / ASIN: B0H7NH2798](https://www.amazon.co.jp/dp/B0H7NH2798)
 
 ---
 
