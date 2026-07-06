@@ -1,4 +1,7 @@
 # Global Warming Causal Structure
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Systems-Based Causal Model Beyond CO₂-Only Explanations
 
 **Global Warming Causal Structure** is a multilingual repository that presents a systems-based causal interpretation of global warming.

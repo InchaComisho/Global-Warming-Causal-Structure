@@ -1,4 +1,7 @@
 # 地球温暖化の因果構造
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## CO₂単独説明を超える、システム論的な温暖化因果モデル
 
 **Global Warming Causal Structure** は、地球温暖化をシステム論的に捉える多言語リポジトリである。
