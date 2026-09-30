@@ -340,7 +340,6 @@ This module is a conceptual counterfactual causal simulation (2015–2035) compa
 
 ### Primary Article and Portal
 
-- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 - [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 - [Global Warming Causal Structure Repository](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 

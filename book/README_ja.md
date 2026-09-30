@@ -4545,9 +4545,6 @@ CO₂削減を続ける。
 
 ## 主要参考資料
 
-温暖化の原因と因果関係
-[https://note.com/inchacomusho/n/n5b2102ffc1c2](https://note.com/inchacomusho/n/n5b2102ffc1c2)
-
 Global Warming Causal Structure
 [https://inchacomisho.github.io/Global-Warming-Causal-Structure/](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 

@@ -243,7 +243,6 @@ Outputs will be written to the `outputs/` directory.
 
 ### Primary Article
 
-- [NOTE: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 - [Global Warming Causal Structure — GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 
 ---

@@ -243,7 +243,6 @@ python lost_decade_natural_cooling_sim.py
 
 ### 一次記事
 
-- [NOTE：地球温暖化の原因と因果構造](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 - [地球温暖化の因果構造 — GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 
 ---

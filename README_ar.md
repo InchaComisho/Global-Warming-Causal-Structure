@@ -334,7 +334,6 @@
 
 ### المقال الرئيسي والبوابة
 
-- [مقال NOTE: أسباب الاحترار العالمي وبنيته السببية](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 - [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 - [مستودع Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 

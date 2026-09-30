@@ -172,7 +172,6 @@ natural_cooling_function = mean(
 
 > [地球温暖化の因果構造](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 > [地球温暖化の因果構造 — GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
-> [NOTE記事：地球温暖化の原因と因果構造](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 
 そこでの因果仮説：
 

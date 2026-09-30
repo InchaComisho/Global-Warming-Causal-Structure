@@ -344,7 +344,6 @@ CO₂中心の説明は重要な一面を説明できるが、次のような問
 
 ### 主要記事・ポータル
 
-- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 - [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 - [Global Warming Causal Structure リポジトリ](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 
