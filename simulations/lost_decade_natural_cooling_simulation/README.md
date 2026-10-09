@@ -1,5 +1,7 @@
 # Lost Decade Natural Cooling Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 **A conceptual counterfactual causal simulation (2015–2035)**
 
 ---

@@ -1,5 +1,7 @@
 # Model Assumptions — Lost Decade Natural Cooling Simulation
 
+[日本語版はこちら / Japanese version](MODEL_ASSUMPTIONS_ja.md)
+
 This document details the assumptions, data sources, and methodological choices underlying the simulation.
 
 ---
