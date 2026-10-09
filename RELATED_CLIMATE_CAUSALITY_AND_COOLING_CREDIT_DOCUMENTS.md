@@ -1,5 +1,7 @@
 # Related GitHub Documents / 関連GitHub文書 / المستندات المرتبطة
 
+[日本語版はこちら / Japanese version](RELATED_CLIMATE_CAUSALITY_AND_COOLING_CREDIT_DOCUMENTS_ja.md)
+
 ## Climate Causality, SAI Oversights, and Cooling Credit Framework
 
 This file provides a GitHub-only mutual link map for documents related to global warming causality, complete solution definition, SAI critical oversight, and Cooling Credit definition / implementation.
